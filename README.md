@@ -1,7 +1,11 @@
+<a href="#">
+  <img src="svg/banner.svg" width='1200' alt="Background error">
+</a>
+
 ## 💻 Github Profile Stats
 <div align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanvohieunghia&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=phanvohieunghia&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanvohieunghia&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=bd93f9&text_color=ffffff&icon_color=61dafb&langs_count=8&hide_border=true&layout=compact&bg_color=0,000000,2D233B" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=phanvohieunghia&show_icons=true&theme=react&border_color=ff79c6&title_color=bd93f9&icon_color=bd93f9&hide_border=true&bg_color=0,000000,2D233B" />
 </div>
 <br>
 
