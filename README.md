@@ -2,6 +2,14 @@
   <img src="svg/banner.svg" width='1200' alt="Background error">
 </a>
 
+<a href="#">
+  <img src="svg/footer.svg" width='1200' alt="Background error">
+</a>
+
+<div>
+	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</div>
+
 ## 💻 Github Profile Stats
 <div align="center">
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanvohieunghia&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=bd93f9&text_color=ffffff&icon_color=61dafb&langs_count=8&hide_border=true&layout=compact&bg_color=0,000000,2D233B" />
