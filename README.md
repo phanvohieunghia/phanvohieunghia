@@ -37,5 +37,5 @@
 	<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 </div>
 <a href="#">
-  <img src="svg/footer.svg" width='1200' alt="Background error">
+  <img src="svg/wave.svg" width='1200' alt="Background error">
 </a>
