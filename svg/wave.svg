@@ -43,13 +43,17 @@
       }
     }
   </style>
-    <defs>
-      <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
-    </defs>
-    <g class="parallax">
-      <use xlink:href="#gentle-wave" x="48" y="0" fill="rgba(189,147,249,0.7" />
-      <use xlink:href="#gentle-wave" x="48" y="3" fill="rgba(189,147,249,0.5)" />
-      <use xlink:href="#gentle-wave" x="48" y="5" fill="rgba(189,147,249,0.3)" />
-      <use xlink:href="#gentle-wave" x="48" y="7" fill="rgb(189,147,249)" />
-    </g>
-  </svg>
+  <defs>
+  <linearGradient id="a" x1="50%" x2="50%" y1="-10.959%" y2="100%">
+    <stop stop-color="rgb(189,147,249)" stop-opacity=".3" offset="0%"/>
+    <stop stop-color="rgb(30,23,39)" stop-opacity="1" offset="100%"/>
+  </linearGradient>
+    <path fill="url(#a)" fill-rule="evenodd" id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+  </defs>
+  <g class="parallax">
+    <use xlink:href="#gentle-wave" x="48" y="0"/>
+    <use xlink:href="#gentle-wave" x="48" y="3"/>
+    <use xlink:href="#gentle-wave" x="48" y="5"/>
+    <use xlink:href="#gentle-wave" x="48" y="7"/>
+  </g>
+</svg>

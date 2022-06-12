@@ -1,10 +1,6 @@
 <a href="#">
-  <img src="svg/banner.svg" width='1200' alt="Background error">
+  <img src="svg/banner.svg" width='1200' alt="Background error" width="100%">
 </a>
-<div>
-	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</div>
-
 <div>
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </div>
