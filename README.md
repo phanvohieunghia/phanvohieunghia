@@ -1,10 +1,9 @@
 <a href="#">
   <img src="svg/banner.svg" width='1200' alt="Background error">
 </a>
-
-<a href="#">
-  <img src="svg/footer.svg" width='1200' alt="Background error">
-</a>
+<div>
+	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</div>
 
 <div>
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
@@ -37,4 +36,6 @@
 	&nbsp;
 	<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 </div>
-<br>
+<a href="#">
+  <img src="svg/footer.svg" width='1200' alt="Background error">
+</a>
