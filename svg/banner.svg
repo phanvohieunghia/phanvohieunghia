@@ -16,13 +16,14 @@
         .text {
           position: absolute;
           top: 50%;
-          text-align: center;
-          transform: translateY(-50%);
-          font-size: 36px;
+          left: 50%;
+          transform: translate(-50%, -50%);
+          font-size: 44px;
+          white-space: nowrap;
 					line-height: 2;
 					letter-spacing: 4px;
           color: #fff;
-          font-family: BlinkMacSystemFont, "Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+          font-family: sans-serif;
           font-weight: 700;
           border-radius: 10px;
           background: rgba(49,51,50, 0.4);
@@ -59,7 +60,6 @@
           Hi<span class="wave">👋</span>,
           <span class="name">Phan Võ Hiếu Nghĩa</span>
           <br />
-
         </div>
 			</div>
 		</div>
