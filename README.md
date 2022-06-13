@@ -1,18 +1,15 @@
 <a href="#">
   <img src="svg/banner.svg" width='1200' alt="Background error" width="100%">
 </a>
-<div>
-	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</div>
 
-## 💻 Github Profile Stats
+## <img src='https://media.giphy.com/media/PmdWKodlTy9dKJccrJ/giphy.gif' width='35' /> Github Profile Stats
 <div align="center">
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanvohieunghia&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=bd93f9&text_color=ffffff&icon_color=61dafb&langs_count=8&hide_border=true&layout=compact&bg_color=0,000000,2D233B" />
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=phanvohieunghia&show_icons=true&theme=react&border_color=ff79c6&title_color=bd93f9&icon_color=bd93f9&hide_border=true&bg_color=0,000000,2D233B" />
 </div>
 <br>
 
-## 🛠️ Technologies and Tools
+## <img src='https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif' width='35' /> Technologies and Tools
 <div>
 	<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 	&nbsp;
